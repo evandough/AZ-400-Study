@@ -15,8 +15,8 @@ Being able to walk through different questions won't only help with the exam, bu
 ## Step 3 - Make Learning Fun/Funny
 This helped out BIG TIME. Have fun with the process and find silly ways to help remember concepts. 
 
-- ### Design and implement processes and communications 
-- ### Design and implement a source control strategy 
-- ### Design and implement build and release pipelines 
-- ### Develop a security and compliance plan 
-- ### Implement an instrumentation strategy
+- Design and implement processes and communications 
+- Design and implement a source control strategy 
+- Design and implement build and release pipelines 
+- Develop a security and compliance plan 
+- Implement an instrumentation strategy
