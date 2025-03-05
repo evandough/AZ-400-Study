@@ -15,7 +15,7 @@ Being able to walk through different questions won't only help with the exam, bu
 ## Step 3 - Make Learning Fun/Funny
 This helped out BIG TIME. Have fun with the process and find silly ways to help remember concepts. 
 
-For example - the difference between Lead Time & Cycle Time Widget:
+For example - *the difference between Lead Time & Cycle Time Widget*:
 Lead time measures the total time elapsed from the creation of work items to their completion. Cycle time measures the time it takes for your team to complete work items once they begin actively working on them.
 My uncle is big into Tour de France - so I connected Lead Time to the entire Tour de France race & connected Cycle time to when a cyclist hops on their bike and starts the ride. 
 
