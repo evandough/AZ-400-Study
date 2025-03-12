@@ -25,7 +25,7 @@ It would be **P**assive **P**en test's - OWAS**P** ZA**P**
 
 ## Step 4 - Go through the [Microsoft Learning Path](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/)
 Seriously, take your time and go through the Learning Path - read through and do the labs to get hands on experience. 
-Videos are great to hear someone teach a topic, reading documentation helps comprehend the information, hands-on experience helps my going through implementation and actually clicking the buttons, and writing concepts/new information helps with drilling the information into your cranium. 
+Videos are great to hear someone teach a topic, reading documentation helps comprehend the information, hands-on experience helps by going through implementation and actually clicking the buttons, and writing down concepts/new information helps with drilling the information into your cranium. 
 Microsoft does a great job by telling you what skills are measured, which is great because this helps by breaking studying down into manageable chunks. 
 
 - Design and implement processes and communications 
